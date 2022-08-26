@@ -1,16 +1,1 @@
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-print(123)
-
-
-print('eeeeee3')
+print("今天天氣真好")
